@@ -1,0 +1,8 @@
+trident:21.07.0
+trident-operator:21.07.0
+trident-autosupport:21.01
+csi-provisioner:v2.1.1
+csi-attacher:v3.1.0
+csi-resizer:v1.1.0
+csi-snapshotter:v4.1.1
+csi-node-driver-registrar:v2.1.0

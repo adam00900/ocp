@@ -1,0 +1,324 @@
+{
+  "name": "aci-containers-operator"
+}
+{
+  "name": "aikit-operator-rhmp"
+}
+{
+  "name": "akka-cluster-operator-certified-rhmp"
+}
+{
+  "name": "anaconda-team-edition-rhmp"
+}
+{
+  "name": "anzo-operator-rhmp"
+}
+{
+  "name": "anzograph-operator-rhmp"
+}
+{
+  "name": "anzounstructured-operator-rhmp"
+}
+{
+  "name": "appdynamics-operator-rhmp"
+}
+{
+  "name": "appranix-cps-rhmp"
+}
+{
+  "name": "aqua-operator-certified-rhmp"
+}
+{
+  "name": "armory-operator-rhmp"
+}
+{
+  "name": "as400rpc-operator-rhmp"
+}
+{
+  "name": "atomicorp-helm-operator-certified-rhmp"
+}
+{
+  "name": "aws-event-sources-operator-certified-rhmp"
+}
+{
+  "name": "can-operator-rhmp"
+}
+{
+  "name": "cass-operator-rhmp"
+}
+{
+  "name": "cert-manager-operator-rhmp"
+}
+{
+  "name": "cic-operator-with-crds-rhmp"
+}
+{
+  "name": "citrix-cpx-with-ingress-controller-operator-rhmp"
+}
+{
+  "name": "citrix-ingress-controller-operator-rhmp"
+}
+{
+  "name": "cloudbees-ci-rhmp"
+}
+{
+  "name": "cloudhedge-rhmp"
+}
+{
+  "name": "cnvrg-operator-marketplace-rhmp"
+}
+{
+  "name": "cockroachdb-certified-rhmp"
+}
+{
+  "name": "cortex-certifai-operator-rhmp"
+}
+{
+  "name": "cortex-fabric-operator-rhmp"
+}
+{
+  "name": "cortex-healthcare-hub-operator-rhmp"
+}
+{
+  "name": "cortex-hub-operator-rhmp"
+}
+{
+  "name": "couchbase-enterprise-certified-rhmp"
+}
+{
+  "name": "cpx-cic-operator-rhmp"
+}
+{
+  "name": "crunchy-postgres-operator-rhmp"
+}
+{
+  "name": "cyberarmor-operator-certified-rhmp"
+}
+{
+  "name": "data-explorer-operator-certified-rhmp"
+}
+{
+  "name": "datadog-operator-certified-rhmp"
+}
+{
+  "name": "db2-zos-db-operator-rhmp"
+}
+{
+  "name": "densify-operator-rhmp"
+}
+{
+  "name": "eddi-operator-certified-rhmp"
+}
+{
+  "name": "entando-k8s-operator-rhmp"
+}
+{
+  "name": "enterprise-operator-rhmp"
+}
+{
+  "name": "federatorai-certified-rhmp"
+}
+{
+  "name": "fep-ansible-operator"
+}
+{
+  "name": "gpu-operator-certified-rhmp"
+}
+{
+  "name": "growth-stack-operator-certified-rhmp"
+}
+{
+  "name": "hazelcast-enterprise-certified-rhmp"
+}
+{
+  "name": "hazelcast-jet-enterprise-operator-rhmp"
+}
+{
+  "name": "hpe-csi-operator-rhmp"
+}
+{
+  "name": "hpe-ezmeral-csi-operator-rhmp"
+}
+{
+  "name": "insightedge-enterprise-operator2-rhmp"
+}
+{
+  "name": "instana-agent-rhmp"
+}
+{
+  "name": "ivory-server-app-rhmp"
+}
+{
+  "name": "joget-dx-operator-rhmp"
+}
+{
+  "name": "joget-openshift-operator-rhmp"
+}
+{
+  "name": "jtrac-app-operator-rhmp"
+}
+{
+  "name": "k10-kasten-operator-rhmp"
+}
+{
+  "name": "k8s-triliovault-rhmp"
+}
+{
+  "name": "kong-offline-operator-rhmp"
+}
+{
+  "name": "kpow-io-certified-rhmp"
+}
+{
+  "name": "kubemq-operator-marketplace-rhmp"
+}
+{
+  "name": "kubeplus-rhmp"
+}
+{
+  "name": "kubeturbo-certified-rhmp"
+}
+{
+  "name": "linstor-operator-rhmp"
+}
+{
+  "name": "memql-certified-rhmp"
+}
+{
+  "name": "mf-cics-tg-operator-rhmp"
+}
+{
+  "name": "mf-cics-ts-operator-rhmp"
+}
+{
+  "name": "minio-operator-rhmp"
+}
+{
+  "name": "mongodb-atlas-kubernetes-rhmp"
+}
+{
+  "name": "mongodb-enterprise-advanced-ibm-rhmp"
+}
+{
+  "name": "mongodb-enterprise-rhmp"
+}
+{
+  "name": "nastel-navigator-operator-certified-rhmp"
+}
+{
+  "name": "nastel-xray-operator-rhmp"
+}
+{
+  "name": "neuvector-certified-operator-rhmp"
+}
+{
+  "name": "node-red-operator-rhm-certified-rhmp"
+}
+{
+  "name": "nuodb-ce-certified-rhmp"
+}
+{
+  "name": "nutanixcsioperator-rhmp"
+}
+{
+  "name": "oneagent-certified-rhmp"
+}
+{
+  "name": "op-svc-jenkins-rhmp"
+}
+{
+  "name": "open-enterprise-spinnaker-rhmp"
+}
+{
+  "name": "openunison-ocp-certified-rhmp"
+}
+{
+  "name": "orca-rhmp"
+}
+{
+  "name": "ovms-operator-rhmp"
+}
+{
+  "name": "perceptilabs-operator-package-rhmp"
+}
+{
+  "name": "percona-server-mongodb-operator-certified-rhmp"
+}
+{
+  "name": "percona-xtradb-cluster-operator-certified-rhmp"
+}
+{
+  "name": "portshift-controller-operator-rhmp"
+}
+{
+  "name": "presto-operator-rhmp"
+}
+{
+  "name": "rapidbiz-operator-certified-rhmp"
+}
+{
+  "name": "redis-enterprise-operator-cert-rhmp"
+}
+{
+  "name": "robin-storage-enterprise-rhmp"
+}
+{
+  "name": "robin-storage-express-rhmp"
+}
+{
+  "name": "robin-storage-trial-rhmp"
+}
+{
+  "name": "rocketchat-operator-certified"
+}
+{
+  "name": "runtime-component-operator-certified-rhmp"
+}
+{
+  "name": "seldon-deploy-operator-rhmp"
+}
+{
+  "name": "seldon-operator-certified-rhmp"
+}
+{
+  "name": "snyk-operator-marketplace-rhmp"
+}
+{
+  "name": "starburst-enterprise-helm-operator-rhmp"
+}
+{
+  "name": "stonebranch-universalagent-operator-certified-rhmp"
+}
+{
+  "name": "storageos2-rhmp"
+}
+{
+  "name": "sysdig-certified-rhmp"
+}
+{
+  "name": "t8c-certified-rhmp"
+}
+{
+  "name": "timemachine-operator-rhmp"
+}
+{
+  "name": "traefikee-redhat-certified-rhmp"
+}
+{
+  "name": "uma-operator-rhmp"
+}
+{
+  "name": "vfunction-server-operator-rhmp"
+}
+{
+  "name": "vprotect-operator-rhmp"
+}
+{
+  "name": "xcrypt-operator-rhmp"
+}
+{
+  "name": "yugabyte-platform-operator-bundle-rhmp"
+}
+{
+  "name": "zabbix-operator-certified-rhmp"
+}

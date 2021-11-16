@@ -1,0 +1,447 @@
+{
+  "name": "3scale-community-operator"
+}
+{
+  "name": "akka-cluster-operator"
+}
+{
+  "name": "alvearie-imaging-ingestion"
+}
+{
+  "name": "api-operator"
+}
+{
+  "name": "apicast-community-operator"
+}
+{
+  "name": "apicurio-registry"
+}
+{
+  "name": "apicurito"
+}
+{
+  "name": "aqua"
+}
+{
+  "name": "argocd-operator"
+}
+{
+  "name": "argocd-operator-helm"
+}
+{
+  "name": "assisted-service-operator"
+}
+{
+  "name": "atlasmap-operator"
+}
+{
+  "name": "aws-efs-operator"
+}
+{
+  "name": "awss3-operator-registry"
+}
+{
+  "name": "azure-service-operator"
+}
+{
+  "name": "buildv2-operator"
+}
+{
+  "name": "camel-k"
+}
+{
+  "name": "cert-manager"
+}
+{
+  "name": "cert-utils-operator"
+}
+{
+  "name": "cluster-manager"
+}
+{
+  "name": "cockroachdb"
+}
+{
+  "name": "community-kubevirt-hyperconverged"
+}
+{
+  "name": "community-windows-machine-config-operator"
+}
+{
+  "name": "composable-operator"
+}
+{
+  "name": "crane-operator"
+}
+{
+  "name": "datadog-operator"
+}
+{
+  "name": "dell-csi-operator"
+}
+{
+  "name": "devopsinabox"
+}
+{
+  "name": "ditto-operator"
+}
+{
+  "name": "egressip-ipam-operator"
+}
+{
+  "name": "ember-csi-community-operator"
+}
+{
+  "name": "enc-key-sync"
+}
+{
+  "name": "enmasse"
+}
+{
+  "name": "esindex-operator"
+}
+{
+  "name": "etcd"
+}
+{
+  "name": "eunomia"
+}
+{
+  "name": "event-streams-topic"
+}
+{
+  "name": "federatorai"
+}
+{
+  "name": "flux"
+}
+{
+  "name": "gitlab-runner-operator"
+}
+{
+  "name": "global-load-balancer-operator"
+}
+{
+  "name": "grafana-operator"
+}
+{
+  "name": "group-sync-operator"
+}
+{
+  "name": "ham-deploy"
+}
+{
+  "name": "hawkbit-operator"
+}
+{
+  "name": "hawtio-operator"
+}
+{
+  "name": "hazelcast-jet-operator"
+}
+{
+  "name": "hazelcast-operator"
+}
+{
+  "name": "hedvig-operator"
+}
+{
+  "name": "hive-operator"
+}
+{
+  "name": "horreum-operator"
+}
+{
+  "name": "hyperfoil-bundle"
+}
+{
+  "name": "ibm-block-csi-operator-community"
+}
+{
+  "name": "ibm-spectrum-scale-csi-operator"
+}
+{
+  "name": "ibmcloud-iam-operator"
+}
+{
+  "name": "ibmcloud-operator"
+}
+{
+  "name": "infinispan"
+}
+{
+  "name": "integrity-shield-operator"
+}
+{
+  "name": "iot-simulator"
+}
+{
+  "name": "istio-workspace-operator"
+}
+{
+  "name": "jaeger"
+}
+{
+  "name": "jupyterlab-operator"
+}
+{
+  "name": "keda"
+}
+{
+  "name": "keepalived-operator"
+}
+{
+  "name": "keycloak-operator"
+}
+{
+  "name": "kiali"
+}
+{
+  "name": "klusterlet"
+}
+{
+  "name": "kogito-operator"
+}
+{
+  "name": "koku-metrics-operator"
+}
+{
+  "name": "konveyor-forklift-operator"
+}
+{
+  "name": "kubefed"
+}
+{
+  "name": "kubernetes-imagepuller-operator"
+}
+{
+  "name": "kubestone"
+}
+{
+  "name": "kubeturbo"
+}
+{
+  "name": "lib-bucket-provisioner"
+}
+{
+  "name": "lightbend-console-operator"
+}
+{
+  "name": "machine-deletion-operator"
+}
+{
+  "name": "maistraoperator"
+}
+{
+  "name": "mattermost-operator"
+}
+{
+  "name": "mcad-operator"
+}
+{
+  "name": "microcks"
+}
+{
+  "name": "mongodb-atlas-kubernetes"
+}
+{
+  "name": "mta-operator"
+}
+{
+  "name": "multicluster-operators-subscription"
+}
+{
+  "name": "must-gather-operator"
+}
+{
+  "name": "myvirtualdirectory"
+}
+{
+  "name": "namespace-configuration-operator"
+}
+{
+  "name": "neuvector-community-operator"
+}
+{
+  "name": "nexus-operator-m88i"
+}
+{
+  "name": "node-healthcheck-operator"
+}
+{
+  "name": "node-problem-detector"
+}
+{
+  "name": "nsm-operator-registry"
+}
+{
+  "name": "oadp-operator"
+}
+{
+  "name": "odoo-operator"
+}
+{
+  "name": "opendatahub-operator"
+}
+{
+  "name": "openebs"
+}
+{
+  "name": "openshift-ibm-quantum-operator"
+}
+{
+  "name": "openshift-nfd-operator"
+}
+{
+  "name": "openshift-qiskit-operator"
+}
+{
+  "name": "opentelemetry-operator"
+}
+{
+  "name": "opsmx-spinnaker-operator"
+}
+{
+  "name": "pcc-operator"
+}
+{
+  "name": "percona-server-mongodb-operator"
+}
+{
+  "name": "percona-xtradb-cluster-operator"
+}
+{
+  "name": "planetscale"
+}
+{
+  "name": "podium-operator-bundle"
+}
+{
+  "name": "poison-pill-operator"
+}
+{
+  "name": "portworx-essentials"
+}
+{
+  "name": "postgresql"
+}
+{
+  "name": "postgresql-operator-dev4devs-com"
+}
+{
+  "name": "proactive-node-scaling-operator"
+}
+{
+  "name": "prometheus"
+}
+{
+  "name": "prometheus-exporter-operator"
+}
+{
+  "name": "pulp-operator"
+}
+{
+  "name": "pystol"
+}
+{
+  "name": "radanalytics-spark"
+}
+{
+  "name": "redis-operator"
+}
+{
+  "name": "reportportal-operator"
+}
+{
+  "name": "resource-locker-operator"
+}
+{
+  "name": "rhoas-operator"
+}
+{
+  "name": "ripsaw"
+}
+{
+  "name": "sap-commerce-operator"
+}
+{
+  "name": "sealed-secrets-operator-helm"
+}
+{
+  "name": "seldon-operator"
+}
+{
+  "name": "skydive-operator"
+}
+{
+  "name": "snapscheduler"
+}
+{
+  "name": "snyk-operator"
+}
+{
+  "name": "sosreport-operator"
+}
+{
+  "name": "spark-gcp"
+}
+{
+  "name": "special-resource-operator"
+}
+{
+  "name": "spinnaker-operator"
+}
+{
+  "name": "splunk"
+}
+{
+  "name": "starter-kit-operator"
+}
+{
+  "name": "strimzi-kafka-operator"
+}
+{
+  "name": "syndesis"
+}
+{
+  "name": "t8c"
+}
+{
+  "name": "tackle-operator"
+}
+{
+  "name": "tagger"
+}
+{
+  "name": "teiid"
+}
+{
+  "name": "tf-operator"
+}
+{
+  "name": "tidb-operator"
+}
+{
+  "name": "traefikee-operator"
+}
+{
+  "name": "universal-crossplane"
+}
+{
+  "name": "varnish-operator"
+}
+{
+  "name": "vault-helm"
+}
+{
+  "name": "victoriametrics-operator"
+}
+{
+  "name": "volume-expander-operator"
+}
+{
+  "name": "wso2am-operator"
+}
+{
+  "name": "yaks"
+}
