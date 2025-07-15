@@ -1,0 +1,51 @@
+kind: ImageSetConfiguration
+apiVersion: mirror.openshift.io/v1alpha2
+storageConfig:
+  local:
+    path: /home/ubuntu/ocp-mirror/4.14.31/metadata
+mirror:
+  platform:
+    channels:
+    - name: stable-4.14
+      type: ocp
+  operators:
+  - catalog: registry.redhat.io/redhat/redhat-operator-index:v4.14
+    packages:
+    - name: elasticsearch-operator
+      channels:
+      - name: stable-5.8
+    - name: cluster-logging
+      channels:
+      - name: stable-5.9
+    - name: servicemeshoperator
+      channels:
+      - name: stable
+    - name: rhsso-operator
+      channels:
+      - name: stable
+    - name: kiali-ossm 
+      channels:
+      - name: stable
+    - name: jaeger-product
+      channels:
+      - name: stable
+    - name: nfd 
+      channels:
+      - name: stable
+    - name: metallb-operator 
+      channels:
+      - name: stable
+    - name: openshift-custom-metrics-autoscaler-operator 
+      channels:
+      - name: stable
+  - catalog: registry.redhat.io/redhat/certified-operator-index:v4.14
+    packages:
+    - name: gpu-operator-certified
+      channels: 
+      - name: v24.3
+  additionalImages:
+  - name: docker.io/praqma/network-multitool:openshift-extra
+  - name: docker.io/antrea/mcjoin:v2.9
+  - name: docker.io/busybox:latest
+  - name: docker.io/bitnami/kubectl:latest
+  helm: {}
